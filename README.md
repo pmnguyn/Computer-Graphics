@@ -1,6 +1,6 @@
 # Description
 For this project, I will implement a set of function in python to create a simple animated scene.
-The scene is motionless and has no perspective. It looks like this:
+The scene is motionless and has no perspective:
 
 ![Figure_1](https://user-images.githubusercontent.com/84541835/160904372-07ff4ded-ae50-4fd7-ac79-1678fa297713.png)
 
